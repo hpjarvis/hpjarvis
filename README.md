@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi I'm Harvey!
 
+I'm a software engineer in the automotive industry specialising in research and currently exploring XR technologies.
+
+## What am I working on?
+ - Improving my front end and mobile development by creating mobile applications primarily in swiftui and the apple ecosystem.
+ - Experimenting with machine learning models and technologies.
+ - Building backend services and API's to support my apps (as well as others).
 <!--
 **hpjarvis/hpjarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
